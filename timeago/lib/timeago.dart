@@ -1,6 +1,7 @@
 export 'package:timeago/src/messages/de_messages.dart';
 export 'package:timeago/src/messages/en_messages.dart';
 export 'package:timeago/src/messages/es_messages.dart';
+export 'package:timeago/src/messages/ms_messages.dart';
 export 'package:timeago/src/messages/fr_messages.dart';
 export 'package:timeago/src/messages/ja_messages.dart';
 export 'package:timeago/src/messages/km_messages.dart';
